@@ -8,5 +8,5 @@ Repository to test rendering PlantUML diagrams on GitHub.
  * Cannot embed an image in GitHub Markdown.
  * Cannot simply embed svg in GitHub Markdown.
 
-<iframe id="iframe" src="http://www.schepers.cc/svg/blendups/smiley.svg">Please use a modern browser!</iframe>
+<iframe src="http://www.schepers.cc/svg/blendups/smiley.svg" ></iframe>
 
