@@ -6,5 +6,5 @@ Repository to test rendering PlantUML diagrams on GitHub.
    branch, repository, etc.
 
 <!-- Try using a regular HTML img tag -->
-<img custom="attribute" href="http://s.plantuml.com/imgw/class-diagram-fpb0kahy.png" />
+<img custom="attribute" src="http://s.plantuml.com/imgw/class-diagram-fpb0kahy.png">
 
