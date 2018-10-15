@@ -6,10 +6,7 @@ Repository to test rendering PlantUML diagrams on GitHub.
    branch, repository, etc.
  * Embedding an img element also pulls it through github-camo.
  * Cannot embed an image in GitHub Markdown.
+ * Cannot simply embed svg in GitHub Markdown.
 
-<svg  xmlns="http://www.w3.org/2000/svg"
-      xmlns:xlink="http://www.w3.org/1999/xlink">
-    <rect x="10" y="10" height="100" width="100"
-          style="stroke:#ff0000; fill: #0000ff"/>
-</svg>
+<iframe id="iframe" src="http://www.schepers.cc/svg/blendups/smiley.svg">Please use a modern browser!</iframe>
 
